@@ -25,7 +25,7 @@ namespace PR6.Classes
                 Port = 587,
 
                 // Указываем почту, с которой будет отправляться сообщение,и пароль от этой почты
-                Credentials = new NetworkCredential("yandex@yandex.ru", "password"),
+                Credentials = new NetworkCredential("yandex@yandex.ru", "yrijjwkptgfqgzqd"),
 
                 // Включаем поддержку SSL
                 EnableSsl = true,
